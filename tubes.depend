@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1672272702 source:d:\downlaod\g\tubes\b.cpp
+	"b.h"
+
+1672273121 d:\downlaod\g\tubes\b.h
+	<iostream>
+	<string>
+	<math.h>
+
+1672272554 source:d:\downlaod\g\tubes\main.cpp
+	"b.h"
+
+1673003986 source:d:\downlaod\tubesstd_fix\tubes\b.cpp
+	"b.h"
+
+1673009429 d:\downlaod\tubesstd_fix\tubes\b.h
+	<iostream>
+	<string>
+	<math.h>
+
+1673008900 source:d:\downlaod\tubesstd_fix\tubes\main.cpp
+	"b.h"
+
